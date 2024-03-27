@@ -1,0 +1,12 @@
+name: polyply 
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - vermouth
+  - networkx
+  - scipy
+  - pbr
+  - decorator
+  - tqdm
+  - numba
